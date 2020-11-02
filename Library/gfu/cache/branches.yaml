@@ -13,17 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-02T12:19:00.451+02:00
-  initializedAtString: 2020-11-02T12:19:00.426+02:00
+  lastUpdatedAtString: 2020-11-02T15:49:15.145+02:00
+  initializedAtString: 2020-11-02T15:42:50.478+02:00
   localBranches:
   - name: master
     tracking: origin/master
+  - name: Soilen
+    tracking: origin/Soilen
   remoteBranches:
-  - name: origin/master
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Soilen
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/RomanovMark/Pelien_Ekosysteemi_Tiimi_6.git
+    url: https://github.com/RomanovMark/Merrry_Entertaiment.git
     login: 
     user: 
     host: 
@@ -32,28 +36,40 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - Soilen
     values:
     - name: master
       remote:
         name: origin
-        url: https://github.com/RomanovMark/Pelien_Ekosysteemi_Tiimi_6.git
+        url: https://github.com/RomanovMark/Merrry_Entertaiment.git
       trackingBranch: master
+    - name: Soilen
+      remote:
+        name: origin
+        url: https://github.com/RomanovMark/Merrry_Entertaiment.git
+      trackingBranch: Soilen
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - master
+      - HEAD
+      - Soilen
     subKeyValues:
     - Values:
-      - name: master
+      - name: HEAD
         remote:
           name: origin
-          url: https://github.com/RomanovMark/Pelien_Ekosysteemi_Tiimi_6.git
+          url: https://github.com/RomanovMark/Merrry_Entertaiment.git
+        trackingBranch: 
+      - name: Soilen
+        remote:
+          name: origin
+          url: https://github.com/RomanovMark/Merrry_Entertaiment.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/RomanovMark/Pelien_Ekosysteemi_Tiimi_6.git
+      url: https://github.com/RomanovMark/Merrry_Entertaiment.git
