@@ -13,9 +13,502 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-11-02T15:49:18.042+02:00
-  initializedAtString: 2020-11-02T15:47:59.765+02:00
+  lastUpdatedAtString: 2020-11-02T17:06:52.070+02:00
+  initializedAtString: 2020-11-02T16:08:28.382+02:00
   log:
+  - commitID: 75d3ac004b336f32b7113b6b7736f7121e3311c6
+    mergeA: 
+    mergeB: 
+    authorName: Soileroivas
+    authorEmail: osoro003@edu.xamk.fi
+    commitEmail: osoro003@edu.xamk.fi
+    commitName: Soileroivas
+    summary: sdad
+    description: 
+    timeString: 2020-11-02T16:06:39.000+02:00
+    commitTimeString: 2020-11-02T16:06:39.000+02:00
+    changes:
+    - path: Assets\Space Adventure\Textures\Boat_base_1.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Boat_base_1.png
+      projectPath: Assets\Space Adventure\Textures\Boat_base_1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Boat_base_1.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Boat_base_1.png.meta
+      projectPath: Assets\Space Adventure\Textures\Boat_base_1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Boat_base_2.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Boat_base_2.png
+      projectPath: Assets\Space Adventure\Textures\Boat_base_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Boat_base_2.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Boat_base_2.png.meta
+      projectPath: Assets\Space Adventure\Textures\Boat_base_2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Boat_base_3.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Boat_base_3.png
+      projectPath: Assets\Space Adventure\Textures\Boat_base_3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Boat_base_3.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Boat_base_3.png.meta
+      projectPath: Assets\Space Adventure\Textures\Boat_base_3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_1.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_1.png
+      projectPath: Assets\Space Adventure\Textures\Coin_1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_1.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_1.png.meta
+      projectPath: Assets\Space Adventure\Textures\Coin_1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_2.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_2.png
+      projectPath: Assets\Space Adventure\Textures\Coin_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_2.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_2.png.meta
+      projectPath: Assets\Space Adventure\Textures\Coin_2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_3.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_3.png
+      projectPath: Assets\Space Adventure\Textures\Coin_3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_3.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_3.png.meta
+      projectPath: Assets\Space Adventure\Textures\Coin_3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_4.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_4.png
+      projectPath: Assets\Space Adventure\Textures\Coin_4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_4.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_4.png.meta
+      projectPath: Assets\Space Adventure\Textures\Coin_4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_5.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_5.png
+      projectPath: Assets\Space Adventure\Textures\Coin_5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_5.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_5.png.meta
+      projectPath: Assets\Space Adventure\Textures\Coin_5.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_6.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_6.png
+      projectPath: Assets\Space Adventure\Textures\Coin_6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Coin_6.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Coin_6.png.meta
+      projectPath: Assets\Space Adventure\Textures\Coin_6.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Logo_background_narrow.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Logo_background_narrow.png
+      projectPath: Assets\Space Adventure\Textures\Logo_background_narrow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Logo_background_narrow.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Logo_background_narrow.png.meta
+      projectPath: Assets\Space Adventure\Textures\Logo_background_narrow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Logo_square_transparent.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Logo_square_transparent.png
+      projectPath: Assets\Space Adventure\Textures\Logo_square_transparent.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Logo_square_transparent.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Logo_square_transparent.png.meta
+      projectPath: Assets\Space Adventure\Textures\Logo_square_transparent.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Logo_transparent.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Logo_transparent.png
+      projectPath: Assets\Space Adventure\Textures\Logo_transparent.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Logo_transparent.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Logo_transparent.png.meta
+      projectPath: Assets\Space Adventure\Textures\Logo_transparent.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Rocks.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Rocks.png
+      projectPath: Assets\Space Adventure\Textures\Rocks.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Rocks.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Rocks.png.meta
+      projectPath: Assets\Space Adventure\Textures\Rocks.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Sea_background.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Sea_background.png
+      projectPath: Assets\Space Adventure\Textures\Sea_background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Sea_background.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Sea_background.png.meta
+      projectPath: Assets\Space Adventure\Textures\Sea_background.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Sea_bakcground.png
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Sea_bakcground.png
+      projectPath: Assets\Space Adventure\Textures\Sea_bakcground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Space Adventure\Textures\Sea_bakcground.png.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Textures\Sea_bakcground.png.meta
+      projectPath: Assets\Space Adventure\Textures\Sea_bakcground.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\02\0256074d0436b248789121ea8578d01d
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\02\0256074d0436b248789121ea8578d01d
+      projectPath: Library\Artifacts\02\0256074d0436b248789121ea8578d01d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\11\1184ffc72c1a923ebeb4bbf5c1d6ba90
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\11\1184ffc72c1a923ebeb4bbf5c1d6ba90
+      projectPath: Library\Artifacts\11\1184ffc72c1a923ebeb4bbf5c1d6ba90
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\11\1191fe125b36771f3ef0ccfa60d641b2
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\11\1191fe125b36771f3ef0ccfa60d641b2
+      projectPath: Library\Artifacts\11\1191fe125b36771f3ef0ccfa60d641b2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\22\22a980714e0f968e498d785d5bffe6c3
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\22\22a980714e0f968e498d785d5bffe6c3
+      projectPath: Library\Artifacts\22\22a980714e0f968e498d785d5bffe6c3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\31\31743a1fc9ed292af99f6eb4aa27c893
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\31\31743a1fc9ed292af99f6eb4aa27c893
+      projectPath: Library\Artifacts\31\31743a1fc9ed292af99f6eb4aa27c893
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\4d\4dccaae5e051d00a67ea2623705bb611
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\4d\4dccaae5e051d00a67ea2623705bb611
+      projectPath: Library\Artifacts\4d\4dccaae5e051d00a67ea2623705bb611
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\57\5799e22f526cf654b0087eca05356d04
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\57\5799e22f526cf654b0087eca05356d04
+      projectPath: Library\Artifacts\57\5799e22f526cf654b0087eca05356d04
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5e\5e951df8a4f07d4691a1afa3115551f4
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\5e\5e951df8a4f07d4691a1afa3115551f4
+      projectPath: Library\Artifacts\5e\5e951df8a4f07d4691a1afa3115551f4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\61\61671c39d7f5649f55277107ae79cc33
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\61\61671c39d7f5649f55277107ae79cc33
+      projectPath: Library\Artifacts\61\61671c39d7f5649f55277107ae79cc33
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\74\74f4ad11e40c0de52e0bdba0b4b6945d
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\74\74f4ad11e40c0de52e0bdba0b4b6945d
+      projectPath: Library\Artifacts\74\74f4ad11e40c0de52e0bdba0b4b6945d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\77\778caa5c1c87fc4eee1f63d5775f3a6a
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\77\778caa5c1c87fc4eee1f63d5775f3a6a
+      projectPath: Library\Artifacts\77\778caa5c1c87fc4eee1f63d5775f3a6a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7f\7fdc61cffb7e35bfb2ece00b9489c4cf
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\7f\7fdc61cffb7e35bfb2ece00b9489c4cf
+      projectPath: Library\Artifacts\7f\7fdc61cffb7e35bfb2ece00b9489c4cf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\87\87a572e9e2d69254fd116e029577b812
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\87\87a572e9e2d69254fd116e029577b812
+      projectPath: Library\Artifacts\87\87a572e9e2d69254fd116e029577b812
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\87\87b66d4fe512839e1c99cbfd3185464e
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\87\87b66d4fe512839e1c99cbfd3185464e
+      projectPath: Library\Artifacts\87\87b66d4fe512839e1c99cbfd3185464e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8e\8e9982e2a0c4cc34750251d5c00fcf77
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\8e\8e9982e2a0c4cc34750251d5c00fcf77
+      projectPath: Library\Artifacts\8e\8e9982e2a0c4cc34750251d5c00fcf77
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9a\9aa78903438483951488a32d19d339b8
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\9a\9aa78903438483951488a32d19d339b8
+      projectPath: Library\Artifacts\9a\9aa78903438483951488a32d19d339b8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9f\9ff17b5922e04f34fb0d870a560066d1
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\9f\9ff17b5922e04f34fb0d870a560066d1
+      projectPath: Library\Artifacts\9f\9ff17b5922e04f34fb0d870a560066d1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\af\afbcd0f178adb7cc97ee9e8a48be092c
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\af\afbcd0f178adb7cc97ee9e8a48be092c
+      projectPath: Library\Artifacts\af\afbcd0f178adb7cc97ee9e8a48be092c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b2\b23d0b18bd39f827a9069a34246ac8a5
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\b2\b23d0b18bd39f827a9069a34246ac8a5
+      projectPath: Library\Artifacts\b2\b23d0b18bd39f827a9069a34246ac8a5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b5\b56ff8be9a2ef0556f49758ba57f1e8e
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\b5\b56ff8be9a2ef0556f49758ba57f1e8e
+      projectPath: Library\Artifacts\b5\b56ff8be9a2ef0556f49758ba57f1e8e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c5\c545ee792acb3c6d2f41c7e884890adf
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\c5\c545ee792acb3c6d2f41c7e884890adf
+      projectPath: Library\Artifacts\c5\c545ee792acb3c6d2f41c7e884890adf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c5\c5e2d4fabe934e4767ddf97fb7215f73
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\c5\c5e2d4fabe934e4767ddf97fb7215f73
+      projectPath: Library\Artifacts\c5\c5e2d4fabe934e4767ddf97fb7215f73
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c8\c846fdf7f59e65482c61ed65415c605f
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\c8\c846fdf7f59e65482c61ed65415c605f
+      projectPath: Library\Artifacts\c8\c846fdf7f59e65482c61ed65415c605f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c8\c879ef805bc8f489a08a8798014ff3ed
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\c8\c879ef805bc8f489a08a8798014ff3ed
+      projectPath: Library\Artifacts\c8\c879ef805bc8f489a08a8798014ff3ed
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d3\d33a471c3457a7014401a8f3d0fdcb72
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\d3\d33a471c3457a7014401a8f3d0fdcb72
+      projectPath: Library\Artifacts\d3\d33a471c3457a7014401a8f3d0fdcb72
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d5\d5b49bf58b3474241503b2999acee868
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\d5\d5b49bf58b3474241503b2999acee868
+      projectPath: Library\Artifacts\d5\d5b49bf58b3474241503b2999acee868
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d6\d63cf34c3bbed290013d69a088c67b29
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\d6\d63cf34c3bbed290013d69a088c67b29
+      projectPath: Library\Artifacts\d6\d63cf34c3bbed290013d69a088c67b29
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\de\deae9c077a27ac9d9c259b4e0a387035
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\de\deae9c077a27ac9d9c259b4e0a387035
+      projectPath: Library\Artifacts\de\deae9c077a27ac9d9c259b4e0a387035
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ea\ea32b41e69d8800d0fc3855afee5dd59
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\ea\ea32b41e69d8800d0fc3855afee5dd59
+      projectPath: Library\Artifacts\ea\ea32b41e69d8800d0fc3855afee5dd59
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ee\eed100fe5615e691baadba9ac03d61d9
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\Artifacts\ee\eed100fe5615e691baadba9ac03d61d9
+      projectPath: Library\Artifacts\ee\eed100fe5615e691baadba9ac03d61d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 06c0cd9a4b4759a25bcd349df810278bdc4f335a
+    mergeA: 
+    mergeB: 
+    authorName: Soileroivas
+    authorEmail: osoro003@edu.xamk.fi
+    commitEmail: osoro003@edu.xamk.fi
+    commitName: Soileroivas
+    summary: Update shadercompiler-UnityShaderCompiler.exe0.log
+    description: 
+    timeString: 2020-11-02T15:50:35.000+02:00
+    commitTimeString: 2020-11-02T15:50:35.000+02:00
+    changes:
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: bbe29fe5c11a2bce46579aaea5c56d1292646537
+    mergeA: 
+    mergeB: 
+    authorName: Soileroivas
+    authorEmail: osoro003@edu.xamk.fi
+    commitEmail: osoro003@edu.xamk.fi
+    commitName: Soileroivas
+    summary: sdasdas
+    description: 
+    timeString: 2020-11-02T15:50:26.000+02:00
+    commitTimeString: 2020-11-02T15:50:26.000+02:00
+    changes:
+    - path: Assets\Space Adventure\Merirosvo.meta
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Assets\Space
+        Adventure\Merirosvo.meta
+      projectPath: Assets\Space Adventure\Merirosvo.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 4c09d00dbe53728155ddd8f2819abd1e71bb71b2
+    mergeA: 
+    mergeB: 
+    authorName: Soileroivas
+    authorEmail: osoro003@edu.xamk.fi
+    commitEmail: osoro003@edu.xamk.fi
+    commitName: Soileroivas
+    summary: Testi1
+    description: 
+    timeString: 2020-11-02T15:50:10.000+02:00
+    commitTimeString: 2020-11-02T15:50:10.000+02:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Users\soile\Documents\GitHub\Merrry_Entertaiment\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 1d26054aec1ebdefe25f9d4b452680137b827f5c
     mergeA: 
     mergeB: 
