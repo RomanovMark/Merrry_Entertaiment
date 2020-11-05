@@ -18,8 +18,8 @@ public class Coin : MonoBehaviour
         // Checks if coin has been taken. (Because player can re-enter coin while coin destroy animation is playing)
         if(!taken)
         {
-            // Checks if coin collides with one of the player colliders.
-            if(col.name == "Front" || col.name == "Back")
+            // Checks if coin collides with one of the player colliders. "Front" || col.name == "Back"
+            if (col.name == "Ship")
             {
                 // Increases player wallet amount.
                 Wallet.SetAmount(Wallet.GetAmount() + 1);

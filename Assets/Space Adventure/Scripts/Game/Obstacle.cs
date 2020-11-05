@@ -17,7 +17,7 @@ public class Obstacle : MonoBehaviour
     void Update()
     {
         // Rotate obstacle.
-        transform.Rotate(0, 0, speed, Space.Self); 
+        //transform.Rotate(0, 0, speed, Space.Self); 
     }
 
     void OnTriggerEnter2D(Collider2D col)
@@ -25,8 +25,8 @@ public class Obstacle : MonoBehaviour
         // Check if did not crashed already.
         if(!crashed)
         {
-            // Checks if obstacle collides with one of the player colliders.
-            if(col.name == "Front" || col.name == "Back")
+            // Checks if obstacle collides with one of the player colliders."Front" || col.name == "Back"
+            if (col.name == "Ship" )
             {
                 // Play crash sound.
                 audioSource.Play();
