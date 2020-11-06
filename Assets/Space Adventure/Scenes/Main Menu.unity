@@ -15983,7 +15983,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bf47e479165f3b74ba6b8157cb150a3a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 45bd6d043c5172d428dd3da26ae06790, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -16443,6 +16443,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1622058651}
     m_Modifications:
+    - target: {fileID: 7428378066983701886, guid: bdf6e360130e68f44ae1bb9c76596fae, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f4db074b799abde4982775eb3b605e1a, type: 3}
+    - target: {fileID: 7428378067204955212, guid: bdf6e360130e68f44ae1bb9c76596fae, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dc9ebb2e0d0ce7c43ba3be28268b26e0, type: 3}
+    - target: {fileID: 7428378067901345883, guid: bdf6e360130e68f44ae1bb9c76596fae, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7428378068253508649, guid: bdf6e360130e68f44ae1bb9c76596fae, type: 3}
       propertyPath: m_Name
       value: Level Loader
