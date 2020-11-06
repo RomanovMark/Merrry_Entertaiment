@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Space Adventure/Scenes/Game.unity
+- path: Assets/Space Adventure/Scenes/Main Menu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
