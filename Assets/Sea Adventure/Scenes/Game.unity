@@ -366,7 +366,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &87059602
 Transform:
   m_ObjectHideFlags: 0
@@ -5507,7 +5507,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 3a4ec434a70158849a7310aaf9970bda, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2c95b2e668782654795652423b8acd4e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -12171,7 +12171,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &832247949
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17226,7 +17226,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 862986248}
-  m_LocalRotation: {x: -0, y: -0, z: 0.09410833, w: 0.995562}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.042500004, y: 0, z: 0}
   m_LocalScale: {x: 0.60000014, y: 0.60000014, z: 1}
   m_Children:
@@ -17237,7 +17237,7 @@ Transform:
   - {fileID: 87059602}
   m_Father: {fileID: 1729767905}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 10.8}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!111 &862986250
 Animation:
   m_ObjectHideFlags: 0
@@ -17580,7 +17580,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &906592803
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17833,7 +17833,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &953141442
 Transform:
   m_ObjectHideFlags: 0
@@ -19421,7 +19421,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1345785681
 Transform:
   m_ObjectHideFlags: 0
@@ -21222,6 +21222,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1622058651}
     m_Modifications:
+    - target: {fileID: 7428378066983701884, guid: bdf6e360130e68f44ae1bb9c76596fae, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7428378067204955210, guid: bdf6e360130e68f44ae1bb9c76596fae, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7428378068253508649, guid: bdf6e360130e68f44ae1bb9c76596fae, type: 3}
       propertyPath: m_Name
       value: Level Loader
@@ -21809,7 +21817,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2141602463
 Transform:
   m_ObjectHideFlags: 0
